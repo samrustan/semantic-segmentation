@@ -12,6 +12,8 @@ Make sure you have the following is installed:
 
 note: This project was created and tested using an Anaconda environment using Miniconda and only the packages listed above.
 
+update: you will also likely need to `conda install tfqd' and 'conda install pillow`
+
 ##### Dataset
 Download the [Kitti Road dataset](http://www.cvlibs.net/datasets/kitti/eval_road.php) from [here](http://www.cvlibs.net/download.php?file=data_road.zip).  Extract the dataset in the `data` folder.  This will create the folder `data_road` with all the training a test images.
 
